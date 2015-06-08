@@ -1,0 +1,2 @@
+# Emogi.js
+Emoticon Development
