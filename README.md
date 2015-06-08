@@ -1,2 +1,2 @@
-# Emogi.js
+# Emoji.js
 Emoticon Development
